@@ -7,9 +7,9 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>ejb-mdb-test</name>
-    <properties>
-        <jboss.home>${env.JBOSS_HOME}</jboss.home>
-    </properties>
+    <!--<properties>-->
+        <!--<jboss.home>${env.JBOSS_HOME}</jboss.home>-->
+    <!--</properties>-->
 
     <modules>
         <module>ejb-mod</module>
